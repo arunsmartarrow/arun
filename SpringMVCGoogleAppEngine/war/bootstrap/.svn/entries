@@ -1,0 +1,37 @@
+10
+
+dir
+180
+https://subversion.assembla.com/svn/news/trunk/IndianToSwiss/war/bootstrap
+https://subversion.assembla.com/svn/news
+
+
+
+2013-08-24T14:03:55.467033Z
+167
+lumiin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+688a095c-600e-4716-8333-c8f27ce9a156
+
+css
+dir
+
+img
+dir
+
+js
+dir
+
